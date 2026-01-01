@@ -1,0 +1,28 @@
+# OrdinalChess Requirements
+# Core dependencies for the OrdinalChess transfinite game value predictor
+
+# Neural network framework
+torch>=2.0.0
+
+# Numerical computing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Optional: JAX for alternative backend (Google's framework)
+# jax>=0.4.0
+# flax>=0.7.0
+
+# Development and testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Data processing
+# python-chess>=1.9.0  # For standard chess utilities
+
+# Visualization (optional)
+# matplotlib>=3.7.0
+# seaborn>=0.12.0
+
+# Training monitoring (optional)
+# wandb>=0.15.0
+# tensorboard>=2.13.0
