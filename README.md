@@ -242,10 +242,10 @@ ordinal_chess/
 ## Citation
 
 ```bibtex
-@software{ordinalchess2024,
+@software{ordinalchess2025,
   title={OrdinalChess: Transfinite Game Values Meet Neural Chess},
   author={OrdinalChess Team},
-  year={2024},
+  year={2025},
   url={https://github.com/ordinalchess/ordinalchess}
 }
 ```
